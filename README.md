@@ -1,5 +1,5 @@
 # Safe-Linear and Safe-Monotonic
-This is the test code for experimental results in the paper *Best Arm Identification (BAI) with Safety Constraints*([arxiv link here]).
+This is the test code for experimental results in the paper *Best Arm Identification (BAI) with Safety Constraints* (Zhenlin Wang,  Andrew Wagenmaker, Kevin Jamieson, [Best Arm Identification with Safety Constraints](https://arxiv.org/abs/2111.12151). *Under Review for AISTATS, 2022.* ArXiv, 2021, arXiv:2111.12151. ).
 
 Here we outline 2 major algorithms to identify the best arm within the multi-arm bandit setting without violating a specified safety constraint.
 
